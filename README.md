@@ -1,0 +1,1 @@
+This project allows users to order takeout from a menu GUI that calculates price, tax, total price based on the quantity of food ordered from the menu. The user can then decide to print their reciept if they would like. Made entirely in Java
